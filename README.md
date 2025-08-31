@@ -5,6 +5,12 @@ A research starter: *The Universe as a Diode Junction* — a coherence-first toy
 **Purpose.**  
 Provide a concise, reproducible proof-of-concept for mutual reinforcement of a "life-signal" across three coupled bias rails (Light, Our, Dark) using coupled limit-cycle oscillators. The minimal model shows phase/amplitude locking and gives a mathematical shorthand for thinking of a universe as a diode-like junction within a larger meta-circuit.
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17011676.svg)](https://doi.org/10.5281/zenodo.17011676)
+
+
+
 ---
 
 ## Repo layout
