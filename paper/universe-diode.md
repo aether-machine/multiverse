@@ -40,10 +40,10 @@ Linearize near $$\(z\approx 0\): \(\dot{\mathbf z} \approx M \mathbf z\)$$ with 
 ## 4. Rectification & gating
 Diode-like behavior can be modeled by asymmetric couplings and simple gating functions:
 
-\[
+$$\[
 C_{ij} = c_{ij}\, f(|z_j|,|z_i|),
 \quad f(x,y) = \frac{1}{1+\exp[-\alpha(x-y-V_{th})]},
-\]
+\]$$
 
 so coupling turns on when upstream amplitude exceeds a threshold relative to downstream.
 
