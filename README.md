@@ -7,10 +7,6 @@ Provide a concise, reproducible proof-of-concept for mutual reinforcement of a "
 
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17011676.svg)](https://doi.org/10.5281/zenodo.17011676)
-
-
-
 ---
 
 ## Repo layout
@@ -36,17 +32,20 @@ universe-as-diode/
 1. Clone & enter the repo
 ```bash
 git clone https://github.com/aether-machine/universe-as-diode.git
-cd universe-as-diode```
+cd universe-as-diode
+```
 
 2. Create & activate a Python virtual environment, install requirements:
 ```bash
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 3. Run the example simulation:
 ```bash
-python sim/run_simulation.py```
+python sim/run_simulation.py
+```
 
 This will create results/coherence_locking.png (amplitude traces + global coherence) and print run parameters.
 
@@ -67,3 +66,5 @@ Reuse & next steps
 - Sweep parameter grids and produce heatmaps (regions of locking / bifurcation).
 
 - Add gated coupling (diode thresholds), state-dependent couplings, or extend to larger N networks.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17011676.svg)](https://doi.org/10.5281/zenodo.17011676)
