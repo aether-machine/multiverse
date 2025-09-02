@@ -14,13 +14,13 @@ By analogy, in the multiverse framework:
 **Life extracts maximum coherence-energy from the multiverse when the effective impedance of the organism matches the impedance of its cosmic environment.**
 
 Formally:
-\[
+$$\[
 P_{\text{life}} \propto \frac{V^2 R_{\text{match}}}{(R_{\text{env}} + R_{\text{org}})^2 + (X_{\text{env}} - X_{\text{org}})^2}
-\]
+\]$$
 
-- \(R_{\text{env}}, X_{\text{env}}\): real and imaginary parts of the environmental impedance  
-- \(R_{\text{org}}, X_{\text{org}}\): real and imaginary parts of the organism’s impedance  
-- Matching requires \(R_{\text{org}} = R_{\text{env}}\) and \(X_{\text{org}} = -X_{\text{env}}\)
+- $$\(R_{\text{env}}, X_{\text{env}}\)$$: real and imaginary parts of the environmental impedance  
+- $$\(R_{\text{org}}, X_{\text{org}}\)$$: real and imaginary parts of the organism’s impedance  
+- Matching requires $$\(R_{\text{org}} = R_{\text{env}}\)$$ and $$\(X_{\text{org}} = -X_{\text{env}}\)$$
 
 ---
 
