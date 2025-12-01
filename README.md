@@ -11,6 +11,7 @@ Provide a concise, reproducible proof-of-concept for mutual reinforcement of a "
 
 ## Repo layout
 
+```
 universe-as-diode/
 ├── sim/
 │ ├── coupled_oscillators.py # Core model & integrator
@@ -23,7 +24,7 @@ universe-as-diode/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
-
+```
 
 ---
 
