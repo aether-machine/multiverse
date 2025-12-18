@@ -1,5 +1,7 @@
 # universe-as-diode
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17011676.svg)](https://doi.org/10.5281/zenodo.17011676)
+
 A research starter: *The Universe as a Diode Junction* — a coherence-first toy framework that models universes as coupled oscillatory elements in a biased transmission medium. This repo contains code, a short technical draft, and simulation tools to reproduce the basic Stuart–Landau toy model demonstrating cross-rail coherence locking.
 
 **Purpose.**  
@@ -68,4 +70,4 @@ Reuse & next steps
 
 - Add gated coupling (diode thresholds), state-dependent couplings, or extend to larger N networks.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17011676.svg)](https://doi.org/10.5281/zenodo.17011676)
+
